@@ -9,6 +9,7 @@ used node v14.4.0
 ```npm install```
 
 run tests on checksum and spreadsheet checksum   
+
 ```npm run test``
 
 

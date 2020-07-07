@@ -10,7 +10,7 @@ used node v14.4.0
 
 run tests on checksum and spreadsheet checksum   
 
-```npm run test``
+```npm run test```
 
 
 ## SQL

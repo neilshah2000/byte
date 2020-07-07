@@ -2,6 +2,8 @@
 
 answers are in the /src/* folder
 
+used node v14.4.0
+
 ## general
 
 ```npm install```
